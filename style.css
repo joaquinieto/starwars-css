@@ -1,0 +1,82 @@
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/1347951.jpg);
+    background-attachment: scroll;
+    background-repeat: repeat-y;
+    background-size: 100%;
+    text-align: center;
+    font-family: "jedi";
+}
+
+@font-face {
+    font-family: "jedi";
+    src: url(fonts/Strjmono.ttf);
+}
+
+h1{
+    font-size: xx-large;
+    color: white;
+
+}
+#imperio{
+    font-size: x-large;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.521); width: 1000px; width: 80%; margin-left: 10%;
+    border: 2px solid white;
+    text-align: center;
+}
+
+.titleimper{
+    color: white;
+    font-size: xx-large;
+}
+.apoyo1{
+    text-align: center;
+}
+.apoyo2{
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+.darth{
+    margin-right: 25px;
+    font-size: xx-large;
+}
+#rebeld{
+   border: 2px solid white;
+    background-color: rgba(0, 0, 0, 0.582); width: 1000px; width: 80%; margin-left: 10%;
+}
+.titlerebeld{
+    color: white;
+    font-size: xx-large;
+}
+.luke{
+    color: white;
+    font-size: xx-large;
+}
+.droid{
+    color: white;
+    font-size: x-large;
+}
+.soldier{
+    letter-spacing: 2mm;
+    border-radius: 30%;
+    border-width: 50%;
+    border-color: black;
+    border-style: groove;
+}
+.tie{
+    text-align: center;
+}
+.nave{
+    text-transform:uppercase;
+    color: white;
+    font-size: x-large;
+}
+#apoyo2{
+    border: 2px solid white;
+    background-color: rgba(0, 0, 0, 0.521); width: 1000px;  width: 80%; margin-left: 10%;
+}
+.imadr{
+    text-align: center;
+}
